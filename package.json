@@ -1,7 +1,7 @@
 {
   "name": "react-pouchdb-state",
   "version": "1.0.0",
-  "description": "React App Using pouchDB to store state",
+  "description": "React App Using pouchDB to store state, https://pouchdb.com/2015/02/28/efficiently-managing-ui-state-in-pouchdb.html",
   "main": "index.js",
   "scripts": {
     "dev": "webpack -d --watch",
